@@ -1,0 +1,7 @@
+Git and Github - it is a useful tool for easily tracking changes to your code, collaborating and sharing, without the risk of loosing your previous work.
+repository is where your project work happens -- think of it as your prject folder.
+comitting and pushing are how you can aadd the changes on your local machine.
+branchces - you use them to isolate work that you do not want to get merged.
+forks is another way to copy a repository but is usually used when you want to contribute to someone else's project.
+pull requsest - you use them to tell other the changes ypu want to make and ask for the feedback
+issues are a way to track inhancements, tasks, or bugs for your work
